@@ -1,0 +1,25 @@
+components -- all the components goes into here
+
+COMMON CONVENTIONS:--
+----------------------
+File naming:  navbar.jsx, post-card.jsx
+Components naming: Navbar, PostCard
+functions naming: clickLink, openProfile, setData
+
+
+OUR PHILOSOPLY:--
+--------------------------------
+1. DRY: Don't Repeat Yourself.
+2. Always use modular approach.
+
+
+How to write js code in html
+--> {} <--
+<h1>{javascript_code}</h1>
+
+
+
+===============================================
+PROPS IN REACT
+-------------------------------------------------
+> Share data from one Component to another and so on
