@@ -15,4 +15,8 @@ export const links = [
     name: "Hire me",
     href: "/hire-me",
   },
+  {
+    name: "Portfolio",
+    href: "/portfolio",
+  },
 ];

@@ -4,7 +4,7 @@ COMMON CONVENTIONS:--
 ----------------------
 File naming:  navbar.jsx, post-card.jsx
 Components naming: Navbar, PostCard
-functions naming: clickLink, openProfile, setData
+functions, variables naming: clickLink, openProfile, setData
 
 
 OUR PHILOSOPLY:--
@@ -23,3 +23,11 @@ How to write js code in html
 PROPS IN REACT
 -------------------------------------------------
 > Share data from one Component to another and so on
+
+
+
+===============================================
+REACT ROUTER (pkg: react-router-dom)
+-----------------------------------------------
+> [v5]  Link, Route, Routes, BrowserRouter
+> [v6]

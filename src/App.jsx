@@ -5,6 +5,9 @@ function App() {
   return (
     <>
       <Navbar />
+      <p className="text-xs bg-purple-800 text-white px-4 py-1">
+        Developed by TDA Studio.
+      </p>
       <Outlet />
     </>
   );
